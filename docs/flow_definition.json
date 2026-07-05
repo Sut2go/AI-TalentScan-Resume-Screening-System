@@ -1,0 +1,28 @@
+{
+  "name": "ResumeProcessingFlow",
+  "description": "Automated resume parsing and candidate matching system",
+  "trigger": {
+    "Resume Upload": {
+      "type": "File Upload",
+      "format": ["PDF/DOCX"]
+    }
+  },
+  "actions": {
+    "Parse Resume": {
+      "type": "NLP Parser",
+      "functions": ["Entity Extraction", "Skill Identification"]
+    },
+    "Extract Data": {
+      "output": "Candidate Profile",
+      "fields": ["Name", "Skills", "Experience", "Education"]
+    },
+    "Match With JD": {
+      "type": "Matching Algorithm",
+      "parameters": ["Skills Match", "Experience Match"]
+    },
+    "Generate Score": {
+      "type": "Scoring Engine",
+      "output": "Match Percentage"
+    }
+  }
+}
