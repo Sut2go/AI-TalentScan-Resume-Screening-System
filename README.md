@@ -2,7 +2,7 @@
 AI-based system for automated resume screening and candidate matching
 
 ## 📌 Project Overview
-This project automates the recruitment process using Artificial Intelligence by analyzing resumes and matching candidates with job descriptions.
+AI-TalentScan is an AI-powered recruitment platform that automates resume screening, extracts candidate skills, matches resumes with job descriptions, ranks applicants based on compatibility scores, and assists HR professionals in efficient candidate shortlisting using NLP and Machine Learning techniques.
 
 ## 🚀 Features
 - Resume Parsing using NLP
