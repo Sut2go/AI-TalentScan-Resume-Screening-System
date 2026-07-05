@@ -1,6 +1,6 @@
 # 🚀 AI-TalentScan: AI-Powered Resume Screening and Candidate Shortlisting System
 
-> An AI-based system for automated resume screening and candidate matching.
+> An AI-powered recruitment system for automated resume screening, candidate matching, and HR shortlisting using Natural Language Processing (NLP).
 
 ---
 
