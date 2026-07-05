@@ -1,4 +1,4 @@
-# AI-Resume-Screening-System
+# AI-TalentScan: AI-Powered Resume Screening and Candidate Shortlisting System
 AI-based system for automated resume screening and candidate matching
 
 ## 📌 Project Overview
